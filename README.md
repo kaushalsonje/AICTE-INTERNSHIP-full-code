@@ -1,7 +1,7 @@
 <h1 align="center">project management tool</h1>
 
 ![Tech stack](./assets/readme/tech-stack.png)
-
+![dash_board](./assets/readme/dash_board.png)
 
 
 ## Features
