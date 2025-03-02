@@ -2,6 +2,7 @@
 
 ![Tech stack](./assets/readme/tech-stack.png)
 ![dash_board](./assets/readme/dash_board.png)
+![dash_board](./assets/readme/edit.png)
 
 
 ## Features
