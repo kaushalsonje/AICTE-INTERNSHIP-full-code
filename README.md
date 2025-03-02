@@ -2,7 +2,7 @@
 
 ![Tech stack](./assets/readme/tech-stack.png)
 
-![App screenshot](./assets/readme/backlog-screenshot.png)
+
 
 ## Features
 
