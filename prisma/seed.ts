@@ -17,7 +17,7 @@ async function initProject() {
     update: {},
     create: {
       id: "init-project-id-dq8yh-d0as89hjd",
-      name: "Jira Clone Project",
+      name: "Project Management Tool",
       key: "JIRA-CLONE",
     },
   });

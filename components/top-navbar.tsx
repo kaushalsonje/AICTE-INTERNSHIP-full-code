@@ -18,7 +18,8 @@ const TopNavbar: React.FC = () => {
 
   async function fetchStars() {
     const response = await fetch(
-      "https://api.github.com/repos/sebastianfdz/jira_clone"
+      // "https://api.github.com/repos/sebastianfdz/jira_clone"
+      "https://api.github.com/kaushalsonje/EDUNET-INTERNSHIP"
     );
     if (!response.ok) {
       setStars(null);
@@ -36,9 +37,9 @@ const TopNavbar: React.FC = () => {
           width={25}
           height={25}
         />
-        <span className="text-sm font-medium text-gray-600">Jira Clone</span>
+        <span className="text-sm font-medium text-gray-600">Project Management Tool</span>
         <Button
-          href="https://github.com/sebastianfdz/jira_clone"
+          href="https://github.com/kaushalsonje"
           target="_blank"
           className="ml-3 flex gap-x-2"
         >
@@ -47,7 +48,7 @@ const TopNavbar: React.FC = () => {
         </Button>
         {stars ? (
           <Button
-            href="https://github.com/sebastianfdz/jira_clone"
+            href="https://github.com/kaushalsonje"
             target="_blank"
             customColors
             className="ml-3 flex gap-x-2 bg-black"

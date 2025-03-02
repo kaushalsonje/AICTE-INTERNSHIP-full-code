@@ -33,7 +33,7 @@ const NotImplemented: React.FC<{ children: ReactNode; feature?: string }> = ({
               <AiFillGithub className="text-2xl" />
               <p className="text-sm">Find the repo </p>
               <a
-                href="https://github.com/sebastianfdz/jira_clone"
+                href="https://github.com/kaushalsonje"
                 target="_blank"
                 className="text-sm font-semibold text-blue-600 hover:underline"
               >
